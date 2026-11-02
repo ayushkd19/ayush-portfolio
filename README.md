@@ -1,6 +1,6 @@
 # Ayush Kumar (AYUSH KD) — B.Tech ECE Developer Portfolio
 
-A modern, high-contrast, tactile developer portfolio designed with an **editorial field-notebook & print technical aesthetic** inspired by [Sujal Chaudhary's portfolio (sujal.info)](https://www.sujal.info/).
+A modern, high-contrast, tactile developer portfolio designed with an **editorial field-notebook & print technical aesthetic.**
 
 Customized specifically for an **Electronics & Communication Engineering (ECE)** student bridging low-level microcontroller firmware (ESP32, Arduino, C/C++) with modern automation scripts, blockchain data verification, and web dashboards.
 
